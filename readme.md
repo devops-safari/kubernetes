@@ -2,9 +2,9 @@
 
 These hands-on labs cover fundamentals of using Kubernetes, how to install it, building and managing pods, deployments, services, secrets, configs, volumes, ingresses, deploying and managing helm charts
 
-[Lab 1 - Installing and configuring minikube](./lab1.md)
+[Lab 1 - Installing and running minikube](./lab1.md)
 
-[Lab 2 - Building a Ghost-blog pod](./lab2.md)
+[Lab 2 - Creating a Ghost-blog pod](./lab2.md)
 
 [Lab 3 - Using services to access Pods](./lab3.md)
 
